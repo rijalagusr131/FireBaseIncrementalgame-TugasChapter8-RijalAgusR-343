@@ -1,6 +1,7 @@
 # FireBaseIncrementalgame-TugasChapter8-RijalAgusR-343
  Tugas Chapter 8 FireBaseIncremental Game
-#FireBase Versi 8.3.0
+ 
+# FireBase Versi 8.3.0
 
 # Fitur yang ditambahkan 
 1. Menambahkan button Back
